@@ -1,8 +1,18 @@
-.navigation {
-	background-color: red;
+html {
+	margin: 20px;
+	background-color:#EDF5C8;
+}
 
-	p {
-		color: yellow;
-	}
+body {
+	font-family: "HelveticaNeue-Light";
+	color: #333;
+}
 
+h1 {
+	font-size: 50px;
+}
+
+p {
+	font-size: 20px;
+	color: #453672;
 }
